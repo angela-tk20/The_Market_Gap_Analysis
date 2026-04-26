@@ -1,0 +1,21 @@
+# Dataset — DO NOT COMMIT (3GB+)
+*.csv
+*.tsv
+Data-Folder/
+Master-Data/
+
+# Python
+__pycache__/
+*.pyc
+.env
+venv/
+.venv/
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db
+
+Dashboard Folder/
