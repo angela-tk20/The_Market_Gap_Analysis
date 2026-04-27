@@ -12,7 +12,7 @@ This analysis examined 500,000 food products from the Open Food Facts dataset ac
 | Deliverable | Link |
 |---|---|
 | Notebook (GitHub) | [View All Notebooks](https://github.com/angela-tk20/The_Market_Gap_Analysis) |
-| Dashboard (Power BI) | [View Live Dashboard](YOUR_POWERBI_PUBLIC_LINK_HERE) |
+| Dashboard (Power BI) | [View Live Dashboard](https://app.fabric.microsoft.com/view?r=eyJrIjoiOThiZGEzODEtMGM3Ny00ZGI0LWFkZDAtMmM1M2NlYjBhOTVmIiwidCI6ImIyMGE4ZjRkLTBkNmEtNGYyZS04M2EyLTE4MWM5NjhmODg4MiIsImMiOjl9) |
 | Presentation | [View Slide Deck](YOUR_PRESENTATION_LINK_HERE) |
 | Video Walkthrough (Optional) | [Watch on YouTube](YOUR_YOUTUBE_LINK_HERE) |
 
