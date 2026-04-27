@@ -68,6 +68,7 @@ Market Gap Analysis/
 ├── .gitignore
 ├── README.md
 └── requirements.txt
+└── Sugar_Trap_Presentation.pptx
 
 ---
 
@@ -75,7 +76,7 @@ Market Gap Analysis/
 
 ```bash
 # 1. Clone the repo
-git clone https://github.com/YOUR_USERNAME/sugar-trap-market-gap-analysis.git
+git clone https://github.com/angela-tk20/The_Market_Gap_Analysis.git
 
 # 2. Activate virtual environment
 venv\Scripts\activate        # Windows
@@ -107,17 +108,5 @@ pip install -r requirements.txt
 
 ---
 
-## Requirements
-
-```
-pandas
-numpy
-matplotlib
-seaborn
-plotly
-scikit-learn
-jupyter
-ipykernel
-```
 
 
