@@ -14,7 +14,7 @@ This analysis examined 500,000 food products from the Open Food Facts dataset ac
 | Notebook (GitHub) | [View All Notebooks](https://github.com/angela-tk20/The_Market_Gap_Analysis) |
 | Dashboard (Power BI) | [View Live Dashboard](https://app.fabric.microsoft.com/view?r=eyJrIjoiOThiZGEzODEtMGM3Ny00ZGI0LWFkZDAtMmM1M2NlYjBhOTVmIiwidCI6ImIyMGE4ZjRkLTBkNmEtNGYyZS04M2EyLTE4MWM5NjhmODg4MiIsImMiOjl9) |
 | Presentation | [View Slide Deck](https://amalitech-my.sharepoint.com/:p:/p/angela_tenkorang/IQArm-hdXZAXR55XisTn1u6xAVBJeRSjY5n4rxaqQLkbB4U?e=lPNKln) |
-| Video Walkthrough (Optional) | [Watch on YouTube](YOUR_YOUTUBE_LINK_HERE) |
+| Video Walkthrough (Optional) | [Watch on YouTube](#) |
 
 
 
@@ -94,15 +94,15 @@ pip install -r requirements.txt
 
 ## Pre-Submission Checklist
 
-- [ ] GitHub Repo is Public (test in Incognito)
-- [ ] All 5 .ipynb notebooks uploaded
-- [ ] HTML export of each notebook uploaded
-- [ ] Raw CSV not committed (.gitignore has *.csv)
-- [ ] Power BI dashboard published (public link, no login)
-- [ ] Presentation link publicly accessible
-- [ ] README updated with all links
-- [ ] All User Stories 1-4 complete
-- [ ] Candidate's Choice explained in README
+- [x] GitHub Repo is Public (test in Incognito)
+- [x] All 5 .ipynb notebooks uploaded
+- [x] HTML export of each notebook uploaded
+- [x] Raw CSV not committed (.gitignore has *.csv)
+- [x] Power BI dashboard published (public link, no login)
+- [x] Presentation link publicly accessible
+- [x] README updated with all links
+- [x] All User Stories 1-4 complete
+- [x] Candidate's Choice explained in README
 
 
 ---
